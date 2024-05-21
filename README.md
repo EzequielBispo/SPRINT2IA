@@ -10,6 +10,10 @@ Este é um projeto Flask que integra a API do OpenAI (ChatGPT) e SpaCy para forn
 - SpaCy
 - Modelo de idioma SpaCy (`pt_core_news_sm`)
 
+## Vídeo Pitch
+
+[Vídeo Pitch](https://youtu.be/K-pVUeK4ni4)
+
 ## Instalação
 
 1. Clone o repositório:
